@@ -4,7 +4,7 @@
 
 ## 📊 Dashboard Preview
 
-![Road Accident Analysis Dashboard](road-accident-dashboard.jpeg)
+![Road Accident Analysis Dashboard](Dashboard/road-accident-dashboard.jpeg)
 
 ## 📌 Project Overview
 
